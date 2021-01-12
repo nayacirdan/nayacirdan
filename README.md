@@ -1,20 +1,20 @@
 ### Hi, Human! 👋 Let's get acquainted
 
-#### 👩Who am I?
+#### 👩 Who am I?
 - Frontend Developer (React.js)
 - 26 y.o. girl with passion to programming and optimizing
 - Lose my head of beautiful and cute things and design
 - Honest, stubborn, fast learner, team player
 - Really love powerful presentations
 
-#### 📚My Background
+#### 📚 My Background
 - School with advanced English
 - Music school (piano)
 - National Techical University of Ukraine "Kyiv Politechnik Institute" - Research Engineer M.D.
 - SMM/SEO/Copywriter
 - Dan.IT Education - Frontend Development 
 
-#### 💻What I Know?
+#### 💻 What I Know?
 - React/Redux/Router/Thunk
 - Javascript/Typescript
 - NodeJS/ExpressJS
@@ -25,7 +25,7 @@
 - NextJS (basic)
 - jQuery (sometimes trying to forget)
 
-#### 📱Contact me
+#### 📱 Contact me
 - [LinkedIn](https://www.linkedin.com/in/oksana-kirdan)
 - [Facebook](https://www.facebook.com/profile.php?id=100011399554061)
 - Mail - ksusha.cirdan@gmail.com
