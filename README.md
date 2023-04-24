@@ -2,7 +2,7 @@
 
 #### 👩 Who am I?
 - Frontend Developer (React.js)
-- 28 y.o. girl with passion to programming and optimizing
+- 29 y.o. girl with passion to programming and optimizing
 - Lose my head of beautiful and cute things and design
 - Honest, stubborn, fast learner, team player, 
 - Really love powerful presentations
@@ -17,6 +17,7 @@
 
 #### 💻 What I Know?
 - React/NextJS/Redux/Router/Thunk
+- NodeJS/NestJS/MongoDB
 - Javascript/Typescript
 - CSS modules/TailwindCss
 - Apollo Client/GraphQl
